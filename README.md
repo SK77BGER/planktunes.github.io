@@ -1,1 +1,33 @@
-# planktunes.github.io
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlankTon Datenschutzerklärung</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; }
+        h1, h2 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Datenschutzerklärung für PlankTon</h1>
+    <p><strong>Stand:</strong> 22. November 2025</p>
+    
+    <h2>1. Allgemeines</h2>
+    <p>PlankTon ist eine Timer-App für Trainings (z. B. Planks). Wir sammeln <strong>keine personenbezogenen Daten</strong>. Die App speichert Einstellungen lokal auf deinem Gerät und synchronisiert sie optional mit deiner Apple Watch. Keine Cloud-Speicherung, keine Analytics, keine Werbung.</p>
+    
+    <h2>2. Verarbeitung personenbezogener Daten</h2>
+    <p>Die App verarbeitet keine personenbezogenen Daten. Temporär hochgeladene Custom-Sounds (Audio-Dateien) werden nur lokal gespeichert und nicht an Server gesendet.</p>
+    
+    <h2>3. Apple Watch-Synchronisation</h2>
+    <p>Bei Nutzung der Watch-App werden Einstellungen (z. B. Timer-Dauer, Sounds) via Apples WatchConnectivity geteilt. Das ist end-to-end-verschlüsselt und erfolgt nur zwischen deinen Geräten. Apple handhabt die Daten (siehe Apples <a href="https://www.apple.com/legal/privacy/de-ww/">Datenschutzerklärung</a>).</p>
+    
+    <h2>4. Rechte der Betroffenen</h2>
+    <p>Da keine Daten gesammelt werden, gibt es keine Löschung oder Zugriffsrechte. Bei Fragen: support@planktunes.com.</p>
+    
+    <h2>5. Änderungen</h2>
+    <p>Wir können diese Erklärung ändern. Änderungen werden hier veröffentlicht.</p>
+    
+    <p><em>Stefan Kärst, Entwickler von PlankTon</em></p>
+</body>
+</html>
